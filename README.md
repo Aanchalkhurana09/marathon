@@ -1,2 +1,1 @@
-# marathon
-marathon
+# Marathon-Runner-Game.
